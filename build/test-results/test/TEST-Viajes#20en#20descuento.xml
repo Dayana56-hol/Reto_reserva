@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Viajes en descuento" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-20T18:07:14" hostname="DESKTOP-3JNAQAQ" time="30.276">
+  <properties/>
+  <testcase name="Consulta de viajes en descuento" classname="Viajes en descuento" time="30.276"/>
+  <system-out><![CDATA[Feature from file:///C:/Users/Dayana%20SQA/Retoreserva/src/test/resources/features/viajes_oferta.feature
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 13834
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1618942036.200][WARNING]: This version of ChromeDriver has not been tested with Chrome version 90.
+abr 20, 2021 1:07:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

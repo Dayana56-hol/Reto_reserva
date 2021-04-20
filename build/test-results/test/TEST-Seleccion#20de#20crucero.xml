@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Seleccion de crucero" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-20T18:06:43" hostname="DESKTOP-3JNAQAQ" time="30.856">
+  <properties/>
+  <testcase name="Seleccion de crucero" classname="Seleccion de crucero" time="30.856"/>
+  <system-out><![CDATA[Feature from file:///C:/Users/Dayana%20SQA/Retoreserva/src/test/resources/features/seleccionar_crucero.feature
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 45474
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1618942005.027][WARNING]: This version of ChromeDriver has not been tested with Chrome version 90.
+abr 20, 2021 1:06:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Consulta de hoteles" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-20T18:05:37" hostname="DESKTOP-3JNAQAQ" time="37.361">
+  <properties/>
+  <testcase name="Consultar hoteles disponibles" classname="Consulta de hoteles" time="37.361"/>
+  <system-out><![CDATA[Feature from file:///C:/Users/Dayana%20SQA/Retoreserva/src/test/resources/features/consultar_hotel.feature
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 39280
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1618941939.673][WARNING]: This version of ChromeDriver has not been tested with Chrome version 90.
+abr 20, 2021 1:05:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

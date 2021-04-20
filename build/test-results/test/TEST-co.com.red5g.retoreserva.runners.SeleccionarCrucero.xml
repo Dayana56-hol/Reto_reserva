@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.red5g.retoreserva.runners.SeleccionarCrucero" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-3JNAQAQ" time="0.0">
+  <properties/>
+  <system-out><![CDATA[Feature from file:///C:/Users/Dayana%20SQA/Retoreserva/src/test/resources/features/seleccionar_crucero.feature
+
+1 Scenarios (?[32m1 passed?[0m)
+4 Steps (?[32m4 passed?[0m)
+0m30,861s
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
